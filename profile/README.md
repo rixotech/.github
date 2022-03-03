@@ -20,7 +20,3 @@ Rixo Tech offers the following services:
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rixotech&show_icons=true&theme=gotham" alt="rahmatsubandi" />&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rixotech&layout=compact&theme=gotham" alt="top lang" />
-</p>
